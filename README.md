@@ -24,7 +24,7 @@ It is actually a 2 part project which contain the data streaming part :
 * The NodeJS stream listener that feeds the MongoDB Database
 * The python notebook that convert the document MongoDB Database to the graph Neo4J
 
-## Part 1 : NodeJS
+## Part 1 : NodeJS - Listen to Twitter's 1% Stream
 Create a ``.env`` file on the root of the project and add these values : 
 ```dotenv
 TWITTER_KEY=your_twitter_key
@@ -41,7 +41,7 @@ npm install
 npm run start
 ```
 
-## Part2 : Neo4J
+## Part2 : Python - Make the Graph
 First, you must install a few dependencies 
 ```shell
 pip install pymongo neo4j
