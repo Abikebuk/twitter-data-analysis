@@ -88,6 +88,3 @@ The spain cluster was also a bit active.
 
 Small cluster of the news channels.
 ![full](assets/news.png)
-
-## Some interpretations
-From the data I used
