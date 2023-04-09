@@ -60,7 +60,8 @@ From the Neo4J Desktop app, it is possible to export the entire database and use
 
 ## Data sample
 I exported my MongoDB database if it is of any use. You can find it on this link : https://iecm064-my.sharepoint.com/:f:/g/personal/rettana_muon_mediaschool_me/EsycmjxTO5tGpNBvc889yWABMHXLVzVhXFrzYIwMgQ9psg?e=3t3PX1  
-Process of getting the data is explained the sourcecode.
+Process of getting the data is explained in the source code.
+
 ## Results examples
 
 I used this cypher to generate this result : 
