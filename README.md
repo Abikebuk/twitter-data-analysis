@@ -56,7 +56,11 @@ From the Neo4J Desktop app, it is possible to export the entire database and use
 * Some data processed seem wrong
 * Really long process. I calculated about 5 days for 7.3 Million of tweets to process.
 * Might be more practical to directly convert streamed tweet to Neo4J. 
+* Too much data is pulled compared to what is needed.
 
+## Data sample
+I exported my MongoDB database if it is of any use. You can find it on this link : https://iecm064-my.sharepoint.com/:f:/g/personal/rettana_muon_mediaschool_me/EsycmjxTO5tGpNBvc889yWABMHXLVzVhXFrzYIwMgQ9psg?e=3t3PX1  
+Process of getting the data is explained the sourcecode.
 ## Results examples
 
 I used this cypher to generate this result : 
@@ -83,3 +87,6 @@ The spain cluster was also a bit active.
 
 Small cluster of the news channels.
 ![full](assets/news.png)
+
+## Some interpretations
+From the data I used
